@@ -1,0 +1,8 @@
+## Interface: 33302
+## Title: EitaPorra
+## Version: 0.1
+## Author: LeticiaMassenan
+## email: massenandev@gmail.com
+## DefaultState: enabled
+
+EitaPorra.lua
